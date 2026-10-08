@@ -19,53 +19,19 @@ Estou construindo minha carreira em desenvolvimento de software enquanto curso *
 ## 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,html,css,php,sql,angular,nextjs,wordpress,jupyter,git,vscode" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,html,css,php,mysql,angular,nextjs,wordpress,jupyter,git,vscode" alt="Tecnologias" />
 </div>
 
 ## 📌 Projetos em destaque
 
-<table>
-  <tr>
-    <td width="33%">
-
-### [PhotoFlow](https://github.com/tiagocodehub/PhotoFlow)
-Aplicação de workflow para fotógrafos, desenvolvida em **Python**.
-
-    </td>
-    <td width="33%">
-
-### [CRM DigiCommerce](https://github.com/tiagocodehub/crm.digicomerce.com.br)
-Sistema de CRM desenvolvido em **PHP**.
-
-    </td>
-    <td width="33%">
-
-### [ISR Blog](https://github.com/tiagocodehub/isr-blog-nextjs-wordpress)
-Blog com renderização incremental (ISR) — **Next.js + WordPress**.
-
-    </td>
-  </tr>
-  <tr>
-    <td>
-
-### [Loja Gamer](https://github.com/tiagocodehub/loja-gamer)
-Tela inicial de loja de jogos desenvolvida em **Angular**.
-
-    </td>
-    <td>
-
-### [API .NET — CRUD + Login](https://github.com/tiagocodehub/04f-login-e-CORS)
-API REST com CRUD, autenticação e CORS em **C#/.NET**.
-
-    </td>
-    <td>
-
-### [Meu portfólio](https://github.com/tiagocodehub/portfolio)
-Portfólio web pessoal em **HTML/CSS**.
-
-    </td>
-  </tr>
-</table>
+| Projeto | Descrição |
+| :--- | :--- |
+| [**PhotoFlow**](https://github.com/tiagocodehub/PhotoFlow) | Aplicação de workflow para fotógrafos (**Python**) |
+| [**CRM DigiCommerce**](https://github.com/tiagocodehub/crm.digicomerce.com.br) | Sistema de CRM desenvolvido em **PHP** |
+| [**ISR Blog**](https://github.com/tiagocodehub/isr-blog-nextjs-wordpress) | Blog com renderização incremental (ISR) — **Next.js + WordPress** |
+| [**Loja Gamer**](https://github.com/tiagocodehub/loja-gamer) | Tela inicial de loja de jogos desenvolvida em **Angular** |
+| [**API .NET — CRUD + Login**](https://github.com/tiagocodehub/04f-login-e-CORS) | API REST com CRUD, autenticação e CORS em **C#/.NET** |
+| [**Meu portfólio**](https://github.com/tiagocodehub/portfolio) | Portfólio web pessoal em **HTML/CSS** |
 
 ## 📊 Estatísticas
 
