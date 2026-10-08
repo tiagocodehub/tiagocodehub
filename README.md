@@ -15,13 +15,13 @@
 
 ## 🙋 Sobre mim
 
-Sou formada em **Análise e Desenvolvimento de Sistemas** e hoje **desenvovo muito com IA**: adapto múltiplos provedores LLM (Gemini, DeepSeek, OpenAI, Ollama) aos meus projetos, rodo modelos **locais** (YOLO para visão computacional, Whisper para transcrição) e construo soluções com **RAG/vetores** e **agentes**. Complemento com uma pós em **Direito Digital e Cibersegurança** — o que me dá olhar de segurança e conformidade (LGPD) em tudo que construo.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e hoje **desenvovo muito com IA**: adapto múltiplos provedores LLM (Gemini, DeepSeek, OpenAI, Ollama) aos meus projetos, rodo modelos **locais** (YOLO para visão computacional, Whisper para transcrição, entre outos) e construo soluções com **RAG/vetores** e **agentes**. Complemento com uma pós em **Direito Digital e Cibersegurança** — o que me dá olhar de segurança e conformidade (LGPD) em tudo que construo.
 
 ## 🎓 Formação
 
 - ✅ **Tecnóloga em Análise e Desenvolvimento de Sistemas** — Estácio *(concluída)*
 - 🎓 **Pós-graduação em Direito Digital e Cibersegurança** — Verbo Digital *(em andamento)*
-- 🚀 **Programação Full Stack** — SENAI *(em andamento)*
+- 🚀 **Programação Full Stack** — SENAI *(concluída)*
 
 ## 🤖 Projetos com IA
 
