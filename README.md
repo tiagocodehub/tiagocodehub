@@ -19,7 +19,7 @@ Estou construindo minha carreira em desenvolvimento de software enquanto curso *
 ## 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,html,css,php,mysql,angular,nextjs,wordpress,jupyter,git,vscode" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,html,css,php,mysql,angular,nextjs,wordpress,git,vscode" alt="Tecnologias" />
 </div>
 
 ## 📌 Projetos em destaque
